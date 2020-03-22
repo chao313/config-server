@@ -1,0 +1,4 @@
+demo:
+  eureka:
+    provider:
+      config: i am dev
