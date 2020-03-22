@@ -1,4 +1,5 @@
 demo:
   eureka:
-    provider:
-      config: i am test
+    config:
+      client:
+        info: i am test
