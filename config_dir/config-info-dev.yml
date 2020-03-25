@@ -2,4 +2,4 @@ demo:
   eureka:
     config:
       client:
-        info: i am dev . 修改 等待刷新3
+        info: i am dev . 修改 等待刷新4
